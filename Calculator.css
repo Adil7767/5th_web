@@ -1,0 +1,31 @@
+.Container {
+    background-color: orange;
+    border: 2px solid black;
+    width: 25%;
+    padding: 20px;
+}
+
+.heading {
+    color: #fff;
+}
+
+.Input {
+    margin: 20px;
+    font-size: large;
+    background-color: #fff;
+    color: black;
+}
+
+.Num {
+    padding: 10px;
+    margin: 3px;
+    font-size: large;
+}
+
+.clearbtn {
+    background-color: red;
+}
+
+.Equalbtn {
+    background-color: yellowgreen;
+}

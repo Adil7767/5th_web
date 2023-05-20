@@ -1,0 +1,46 @@
+body {
+    font-family: "Courier New", Courier, monospace;
+}
+nav ul {
+    display: inline-flex;
+    margin-left: 27%;
+    padding: 02%;
+}
+
+nav ul li {
+    margin-top: 0%;
+    font-size: 21px;
+    margin-left: 19%;
+    padding-left: 0%;
+    display: inline;
+}
+nav ul li:hover{
+border-bottom: 1px solid black;
+cursor: pointer;
+
+}
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+nav {
+    background-color: rgb(250, 250, 250);
+    list-style-type: none;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+ img{
+    /* display: flex; */
+    float: left;
+    height: 50px;
+    width: 40px;
+    margin: 5%;
+}
+ img:hover{
+    border-bottom: 1px solid black;
+    cursor: pointer;
+}
